@@ -1,0 +1,16 @@
+This repository will be used to store a variety of Islandora ingest forms that anyone can download and use.
+
+You can find the latest versions of the Islandora Solution Pack MODS forms by following these links:
+
+Audio MODS Form: https://github.com/Islandora/islandora_solution_pack_audio/blob/6.x/xml/mods_audio.xml
+
+Books MODS Form: https://github.com/Islandora/islandora_solution_pack_book/blob/6.x/xml/mods_book.xml
+
+Image MODS Form: https://github.com/Islandora/islandora_solution_pack_image/blob/6.x/xml/mods_image.xml
+
+Large Image MODS Form: https://github.com/Islandora/islandora_solution_pack_large_image/blob/6.x/xml/mods_large_image.xml
+
+PDF MODS Form: https://github.com/Islandora/islandora_solution_pack_pdf/blob/6.x/xml/mods_pdf.xml
+
+Video MODS Form: https://github.com/Islandora/islandora_solution_pack_video/blob/6.x/install_files/MODS_VIDEO_FORM.xml
+
