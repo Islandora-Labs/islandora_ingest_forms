@@ -24,4 +24,4 @@ You can find the latest versions of the Islandora Solution Pack MODS forms by fo
 
 2. Create a folder, and add your xml forms to it.
 
-3. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request) explianing what your form does
+3. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request) explaining what your form does
