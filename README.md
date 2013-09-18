@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a repository will be used to store a variety of Islandora ingest forms that anyone can download and use. Currently the forms and related transformations are organized based on the metadata type.
+This is a repository used to store a variety of Islandora ingest forms that anyone can download and use. 
+Currently the forms and related transformations are organized based on the metadata type. Some of the forms are experimental and are offered "as is".
 
 ## Contributing
 
