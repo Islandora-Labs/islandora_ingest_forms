@@ -2,8 +2,8 @@
 
 ## Description
 
-This is a repository used to store a variety of Islandora ingest forms that anyone can download and use. 
-Currently the forms and related transformations are organized based on the metadata type. Some of the forms are experimental and are offered "as is".
+This is a repository used to share community built Islandora ingest forms that anyone can download, revise, and use. 
+Currently the forms and related transformations are organized based on metadata format. Some of the forms are experimental and are offered "as is".
 
 ## Contributing
 
@@ -17,19 +17,19 @@ You can find the latest versions of the Islandora Solution Pack MODS forms by fo
 
 ## Islandora 7
 
-1. [Audio MODS Form](https://github.com/Islandora/islandora_solution_pack_audio/blob/7.x/xml/mods_audio.xml)
+1. [Audio MODS Form](https://github.com/Islandora/islandora_solution_pack_audio/blob/7.x/xml/islandora_audio_form_mods.xml)
 
-2. [Books MODS Form](https://github.com/Islandora/islandora_solution_pack_book/blob/7.x/xml/mods_book.xml)
+2. [Books MODS Form](https://github.com/Islandora/islandora_solution_pack_book/blob/7.x/data/forms/book_form_mods.xml)
 
-3. [Image MODS Form](https://github.com/Islandora/islandora_solution_pack_image/blob/7.x/xml/mods_image.xml)
+3. [Image MODS Form](https://github.com/Islandora/islandora_solution_pack_image/blob/7.x/xml/islandora_basic_image_form_mods.xml)
 
-4. [Large Image MODS Form](https://github.com/Islandora/islandora_solution_pack_large_image/blob/7.x/xml/mods_large_image.xml)
+4. [Large Image MODS Form](https://github.com/Islandora/islandora_solution_pack_large_image/blob/7.x/xml/islandora_large_image_form_mods.xml)
 
 5. [Newspaper Form] (https://github.com/Islandora/islandora_solution_pack_newspaper/blob/7.x/xml/forms/islandora_newspaper_form_mods.xml)
 
-6. [PDF MODS Form](https://github.com/Islandora/islandora_solution_pack_pdf/blob/7.x/xml/mods_pdf.xml)
+6. [PDF MODS Form](https://github.com/Islandora/islandora_solution_pack_pdf/blob/7.x/xml/islandora_pdf_form_mods.xml)
 
-7. [Video MODS Form](https://github.com/Islandora/islandora_solution_pack_video/blob/7.x/install_files/MODS_VIDEO_FORM.xml)
+7. [Video MODS Form](https://github.com/Islandora/islandora_solution_pack_video/blob/7.x/xml/islandora_video_form_mods.xml)
 
 ## Islandora 6
 
