@@ -5097,7 +5097,7 @@
                 <children>
                   <element name="titleInfoSub">
                     <properties>
-                      <type>textfield</type>
+                      <type>fieldset</type>
                       <access>TRUE</access>
                       <required>FALSE</required>
                       <tree>TRUE</tree>
